@@ -1,21 +1,124 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Mohammad S.Yonez
-=========================================================================================================================================
+<!-- ============================================================
+  GitHub profile README for Mohammad Sa'ed Jama
+  Put this file in a PUBLIC repo named exactly like your username:
+  github.com/mohamedsaeedjama1-art/mohamedsaeedjama1-art  ->  README.md
+  Search for "YOUR_" below and replace those placeholders.
+============================================================= -->
 
-Software Engineer
------------------
+<div align="center">
 
-* 🌍  I'm based in Hargeisa Somaliland
-* ✉️  You can contact me at [mohamedsaeedjama1.com](mailto:mohamedsaeedjama1.com)
-* 🧠  I'm currently learning AI Agent
-* 👥  I'm looking to collaborate on DevOps
-* 💬  Ask me about Js, PHP, Flutter
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Mohammad%20Sa%27ed%20Jama&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%26%20Creative%20Developer&descAlignY=60&descSize=18" alt="Mohammad Sa'ed Jama header" width="100%" />
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a>
-</p>
+<a href="https://github.com/mohamedsaeedjama1-art">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=640&height=48&lines=Hi%2C+I%27m+Mohammad+%F0%9F%91%8B;Frontend+%26+Full-Stack+Developer;Flutter+%26+Mobile+Apps+Builder;Building+Digital+Experiences+Through+Code" alt="Typing animation" />
+</a>
 
-### Socials
+<img src="https://komarev.com/ghpvc/?username=mohamedsaeedjama1-art&label=Profile%20Views&color=7c5cff&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/Based%20in-Hargeisa%2C%20Somaliland-ff4fa3?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20work-34d399?style=for-the-badge" alt="Open to work" />
 
-<p align="left"> <a href="https://www.github.com/mohamedsaeedjama1-art" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.facebook.com/mohamedsaeedjama1-art" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
-<a href="https://www.github.com/mohamedsaeedjama1-art" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mohamedsaeedjama1-art?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Hello! I'm **Mohammad Sa'ed Jama**, a software engineer and creative developer from **Hargeisa, Somaliland**.
+I design and build web and mobile products that solve real problems, combining clean engineering with a
+detail-driven interface.
+
+- 🌐 Frontend and full-stack web development
+- 📱 Cross-platform mobile apps with Flutter
+- 🤖 AI-assisted tools and applied AI interfaces
+- 🗄️ Database-driven applications
+
+> 🎯 My goal: ship reliable, polished products that people enjoy using.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,flutter,dart,py,flask,git,github,vscode&perline=7" alt="Tech stack icons" />
+
+</div>
+
+| Area | Technologies |
+| :-- | :-- |
+| 🎨 **Frontend** | HTML5 · CSS3 · JavaScript · React.js |
+| ⚙️ **Backend** | PHP · Node.js · Python (Flask) |
+| 🗄️ **Database** | MySQL / SQL |
+| 📱 **Mobile** | Flutter · Dart |
+| 🔧 **Tools** | Git · GitHub · VS Code |
+
+---
+
+## 📌 Featured Projects
+
+### 🩺 AI Health Symptom Checker
+Educational health interface that analyzes user-described symptoms with a local LLM workflow. It includes
+authentication, chat history, language checks, and a constrained non-diagnostic experience.
+
+![HTML](https://img.shields.io/badge/HTML-ff7a45?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-7c5cff?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffb547?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-22d3ee?style=flat-square&logo=python&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-ff4fa3?style=flat-square&logo=flask&logoColor=white)
+
+[🔗 Live Demo](https://ai-health-symptom-checker-lake.vercel.app) · [💻 Source Code](https://github.com/mohamedsaeedjama1-art/Ai-Health-Symptom-Checker)
+
+---
+
+### 💸 Smart Expense Tracker
+Flutter expense product for tracking budgets and daily spending, with a complete authentication flow and a
+focused financial-tracking experience on the web.
+
+![Flutter](https://img.shields.io/badge/Flutter-22d3ee?style=flat-square&logo=flutter&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-7c5cff?style=flat-square&logo=dart&logoColor=white)
+
+[🔗 Live Demo](https://expense-tracer-groups.netlify.app/)
+
+---
+
+### 🎨 Image Generator
+A compact Python experiment: one file, one prompt — a focused image-generation sketch.
+
+![Python](https://img.shields.io/badge/Python-22d3ee?style=flat-square&logo=python&logoColor=black)
+
+[💻 Source Code](https://github.com/mohamedsaeedjama1-art/Image_Generator)
+
+---
+
+## 🌱 Currently Exploring
+
+- 🚀 AI-assisted tools and stronger frontend systems
+- 🚀 Full-stack architecture and clean backend design
+- 🚀 Polished UI/UX and motion design
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/mohamedsaeedjama1-art"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-ff4fa3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-7c5cff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://x.com/YOUR_X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Code • Learn • Build • Improve ⭐
+
+Thank you for visiting my profile 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer" width="100%" />
+
+</div>
