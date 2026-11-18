@@ -7,10 +7,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Mohammad%20Sa%27ed%20Jama&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%26%20Creative%20Developer&descAlignY=60&descSize=18" alt="Mohammad Sa'ed Jama header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Mohammad%20Sa%27ed%20Jama&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20and%20Creative%20Developer&descAlignY=60&descSize=18" alt="Mohammad Sa'ed Jama header" width="100%" />
 
 <a href="https://github.com/mohamedsaeedjama1-art">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=640&height=48&lines=Hi%2C+I%27m+Mohammad+%F0%9F%91%8B;Frontend+%26+Full-Stack+Developer;Flutter+%26+Mobile+Apps+Builder;Building+Digital+Experiences+Through+Code" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=640&height=48&lines=Hi%2C+I%27m+Mohammad+%F0%9F%91%8B;Frontend+and+Full-Stack+Developer;Flutter+and+Mobile+Apps+Builder;Building+Digital+Experiences+Through+Code" alt="Typing animation" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=mohamedsaeedjama1-art&label=Profile%20Views&color=7c5cff&style=for-the-badge" alt="Profile views" />
