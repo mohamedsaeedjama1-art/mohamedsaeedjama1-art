@@ -66,7 +66,7 @@ authentication, chat history, language checks, and a constrained non-diagnostic 
 ![Python](https://img.shields.io/badge/Python-22d3ee?style=flat-square&logo=python&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-ff4fa3?style=flat-square&logo=flask&logoColor=white)
 
-[🔗 Live Demo](https://ai-health-symptom-checker-lake.vercel.app) · [💻 Source Code](https://github.com/mohamedsaeedjama1-art/Ai-Health-Symptom-Checker)
+ · [💻 Source Code](https://github.com/mohamedsaeedjama1-art/Ai-Health-Symptom-Checker)
 
 ---
 
